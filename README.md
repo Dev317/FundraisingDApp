@@ -14,5 +14,5 @@ https://medium.com/coinmonks/creating-deploying-a-smart-contract-using-truffle-f
 Remeber to take note of the contract address to traceback the node for writing logic later on.
 
 # How to run
-Before running the app, please run `node mocha` to do testing on the smart contracts
+Before running the app, please run `node test` to do testing on the smart contracts
 Based on the config, `"dev": "node server.js"`, in the terminal run this command `node run dev`.
